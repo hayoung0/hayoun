@@ -1,8 +1,7 @@
 
 <html >
 <head>
-<meta charset=utf-8">
-</head>
+
 <body>
 	<tr>
 		<td style="line-height:0px; background-color:#fff;" >
